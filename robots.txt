@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # After publishing, replace the placeholder with your actual GitHub Pages URL:
-# Sitemap: https://Shibaprasadbsc.github.io/outr-mca-department/sitemap.xml
+# Sitemap: https://shibaprasadbsc.github.io/outr-mca-department/sitemap.xml
