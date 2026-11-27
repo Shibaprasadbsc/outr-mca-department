@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# After publishing, replace the placeholder with your actual GitHub Pages URL:
+# Sitemap: https://YOUR-GITHUB-USERNAME.github.io/outr-mca-department/sitemap.xml
